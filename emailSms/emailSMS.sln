@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "emailSMS", "emailSMS\emailSMS.csproj", "{87ED9592-334C-44B2-81E8-E62BEF3B4E03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "emailSMS.Tests", "emailSMS.Tests\emailSMS.Tests.csproj", "{8DE1D71A-F337-4643-81D7-ED3AA3DF496E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87ED9592-334C-44B2-81E8-E62BEF3B4E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87ED9592-334C-44B2-81E8-E62BEF3B4E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87ED9592-334C-44B2-81E8-E62BEF3B4E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87ED9592-334C-44B2-81E8-E62BEF3B4E03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DE1D71A-F337-4643-81D7-ED3AA3DF496E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE1D71A-F337-4643-81D7-ED3AA3DF496E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE1D71A-F337-4643-81D7-ED3AA3DF496E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE1D71A-F337-4643-81D7-ED3AA3DF496E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

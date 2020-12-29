@@ -1,0 +1,6 @@
+/Users/nivedithag/Projects/emailSms/emailSMS/bin/emailSMS.dll
+/Users/nivedithag/Projects/emailSms/emailSMS/bin/emailSMS.pdb
+/Users/nivedithag/Projects/emailSms/emailSMS/obj/Debug/emailSMS.csprojAssemblyReference.cache
+/Users/nivedithag/Projects/emailSms/emailSMS/obj/Debug/emailSMS.csproj.CoreCompileInputs.cache
+/Users/nivedithag/Projects/emailSms/emailSMS/obj/Debug/emailSMS.dll
+/Users/nivedithag/Projects/emailSms/emailSMS/obj/Debug/emailSMS.pdb

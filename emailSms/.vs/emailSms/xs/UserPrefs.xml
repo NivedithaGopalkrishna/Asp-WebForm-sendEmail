@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{87ED9592-334C-44B2-81E8-E62BEF3B4E03}|">
+  <MonoDevelop.Ide.ItemProperties.emailSMS PreferredExecutionTarget="/Users/nivedithag/Desktop/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.emailSMS.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="emailSMS/index.aspx.cs">
+    <Files>
+      <File FileName="emailSMS/index.aspx.cs" Line="36" Column="14" />
+      <File FileName="emailSMS/index.aspx.designer.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="emailSMS" expanded="True">
+            <Node name="emailSMS" expanded="True">
+              <Node name="index.aspx" expanded="True">
+                <Node name="index.aspx.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
