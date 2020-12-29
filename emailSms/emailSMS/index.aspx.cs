@@ -25,7 +25,8 @@ namespace emailSMS
                 client.EnableSsl = true;
                 client.DeliveryMethod = SmtpDeliveryMethod.Network;
                 client.UseDefaultCredentials = false;
-                client.Credentials = new NetworkCredential("nivedithaholla@gmail.com", "Nikunj898*");
+                
+                client.Credentials = new NetworkCredential("xxx@gmail.com", "xxx"); //Enter your id and pass here
                 MailMessage msgobj = new MailMessage();
                 msgobj.To.Add(txtTo.Text);
                 msgobj.From = new MailAddress("nivedithaholla@gmail.com");
